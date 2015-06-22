@@ -1,0 +1,32 @@
+STYLE:
+
+Chapter 5: No Helvetica for description.
+
+
+MISSING IN DOCUMENTATION:
+
+4.4 Ilias Virtual Machine
+
++ add content
+
+4.4.1 Setting up the Virtual Machine
+
+(suggested subparagraph)
++ add content
+
+4.4.2 Using the Virtual Machine
+
+(suggested subparagraph)
++ add content
+
+
+5.2 The Connection Structure
+
+
+6 Frequently asked Questions
+
++ add some questions
+
+7.2 Special Thanks
+
++Simone Winkler

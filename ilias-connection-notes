@@ -1,0 +1,7 @@
+Since PCSS uses scp to download files from ILIAS, you must add the ILIAS host's IP to you known_hosts file. Otherwise the connection cannot be established and a "Host key verification failed." message will be logged.
+
+We could circumvent this by calling scp with:
+
+-o UserKnownHostsFile=/dev/null -o" StrictHostKeyChecking=no"
+
+But this would enable Man-in-the-Middle attacks.
