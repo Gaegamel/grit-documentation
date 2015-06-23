@@ -1,1 +1,0 @@
-Add to System PATH variable the location of javac (usually "C:\Program Files\Java\jdk1.7_xxx\bin\")
